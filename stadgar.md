@@ -22,7 +22,7 @@
 
 - skall rekommenderas av minst en medlem.
 - skall godkännas av enkel majoritet vid föreningsstämma.
-- skall ha utfört något som gagnat sällskapet.
+- bör inom sex månader från att de väljs in anordna ett seriöst möte.
 - skall erlägga inträdesavgift samt medlemsavgift.
 
 **§10** Inträdesavgift är föreningens kapital dividerat med antal medlemmar och fastställs av ordinarie föreningsstämma. Medlemsavgift bestäms av styrelsen och eventuell förändring av denna redovisas på föreningsstämma.
@@ -48,4 +48,6 @@
 
 **§19** Föreningens officiella helgon är Sankt Erik (Stockholms skyddshelgon).
 
-**§20** Antalet stadgar är 20.
+**§20** Antalet stadgar är 20 + 1.
+
+**§21** Styrelsen ansvarar för att föreningen under verksamhetsåret sammanträder i enlighet med dessa stadgar samt att seriösa möten planeras, och genomförs, på ett ordnat och värdigt sätt i föreningens anda.
